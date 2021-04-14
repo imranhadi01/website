@@ -66,7 +66,7 @@ AWS_SECRET_ACCESS_KEY="change-me"
 
 ```
 
-To update the static files run
+To update the static files run:
 
 ```
 python manage.py collectstatic
